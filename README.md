@@ -1,4 +1,4 @@
-VR video service
+**VR video service**
 
 This is a prototype of a possible implementation of a future video service that will be able to show VR content.
 The program is made in Unity3D. The video is made using animation and lasts about 40 seconds.
